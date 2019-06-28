@@ -1,0 +1,59 @@
+{
+  "title": "Computer Stretches",
+  "routine": [
+    {
+      "title": "Ankle Turns",
+      "description": "Sit at the edge of your chair, place your feet flat on the floor. Lift one foot slightly off the floor and rotate your ankle 5 times. Repeat in both directions. Do it three times.",
+      "time": 15,
+      "type": "stretch"
+    },
+    {
+      "title": "Wrist Rotation",
+      "description": "Rotate your wrist in circles, five times in both directions. Repeat three times.",
+      "time": 15,
+      "type": "stretch"
+    },
+    {
+      "title": "Finger Stretches",
+      "description": "Make a fist and squeeze, hold for 3 seconds, then release. Spread your fingers out and hold it for 5 seconds.",
+      "time": 15,
+      "type": "stretch"
+    },
+    {
+      "title": "Arm and mid-back stretch",
+      "description": "Move your right hand across your chest. Hold your right elbow with your left hand and slightly pull your right elbow towards your left shoulder, hold for 5 seconds. Repeat for left arm.",
+      "time": 15,
+      "type": "stretch"
+    },
+    {
+      "title": "Shoulder Shrug",
+      "description": "Raise your shoulders up towards your ears until you feel slight tension, hold this position for 5 seconds and then relax. Repeat three times.",
+      "time": 15,
+      "type": "stretch"
+    },
+    {
+      "title": "Neck Stretch",
+      "description": "Sit or stand upright. Slide your head straight back until it feels like you have a double chin. Hold for 5-10 seconds. Repeat 3-5 times.",
+      "time": 15,
+      "type": "stretch"
+    },
+    {
+      "title": "Shoulder Stretch",
+      "description": "Slowly roll your shoulders backward five times in a circulamotion. Slowly roll your shoulders forward five times in a circular motion.",
+      "time": 15,
+      "type": "stretch"
+    },
+    {
+      "title": "Nerve Glides",
+      "description": "Slowly straighten your arm keeping the wrist and fingers in extension and side-benching your neck to the opposite position direction. Now bend your arm again up to 90 degrees flexion while bringing the head back to upright position.",
+      "time": 15,
+      "type": "stretch"
+    },
+    {
+      "title": "Shoulder Stretch",
+      "description": "Stand tall with your feet comfortably apart. Bend your arm at right angles, and place the elbow and hand against a vertical wall. Turn your body and feet away from the wall, so that your elbow is behind you and no longer out to the side. Press your shoulder forward, until you only feel a stretch in the front chest and no pain or pinching anywhere in the shoulder. Hold this stretch for 30 seconds.",
+      "time": 30,
+      "type": "stretch"
+    }
+  ]
+}
